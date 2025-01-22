@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0db32290-c193-4b32-95dc-413ce9e446a5" alt="Coding" width="800"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0db32290-c193-4b32-95dc-413ce9e446a5" alt="Coding" width="200"/>
 </p>
 
 
