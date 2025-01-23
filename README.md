@@ -47,7 +47,7 @@
 
 ## 📞 Let's Connect!
 
-- Linkedin: [Ioannis Kemerlis](www.linkedin.com/in/ioannis-kemerlis-a21173315)
+- Linkedin: [Ioannis Kemerlis](https://linkedin.com/in/ioannis-kemerlis-a21173315)
 - GitHub: [ioanniskemerlis](https://github.com/ioanniskemerlis)
 - E-mail: [ioanniskemerlis@gmail.com](mailto:ioanniskemerlis@gmail.com)
 
