@@ -1,12 +1,12 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> Hello, World! I'm Kemerlis Ioannis 👨‍💻
 
-[![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/ioanniskemerlis)
+
 <p align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7">
   </p>
   
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=0100F7&center=true&width=435&lines=I+am+Software+Engineer;I+have+taken+a+keen+intrest+in+Java;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=0100F7&center=true&width=435&lines=I+have+taken+a+keen+intrest+in+Java;">
 </p>
 
 
